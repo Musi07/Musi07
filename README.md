@@ -2,6 +2,6 @@
      . I am from Feni , Bangladesh .
      . Currently Studying at Feni University .
      . Computer Science Student (FU - 31 BATCH) .
-     . Now on 1st year 2nd Semester .
+     . Now on 2st year 2nd Semester .
      . Highly interested in Competitive Programing .
      
